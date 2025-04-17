@@ -36,7 +36,7 @@ const Nav = () => {
               My Projects
             </Link>
             <Link
-              href="/contact"
+              href="/contact-me"
               className="py-5 px-3 hover:bg-gray-700 transition duration-300"
             >
               Contact Me
